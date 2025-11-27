@@ -2,10 +2,10 @@
 title: "Distilling the knowledge"
 date: 2025-09-17
 categories: [Capstone, 논문리뷰]
-tags: [knowledge distillation]
+tags: [Knowledge Distillation]
 ---
 
-URL: https://arxiv.org/abs/1503.02531
+[Distilling the knowledge](https://arxiv.org/abs/1503.02531)
 
 ## Abstract
 
