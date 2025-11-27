@@ -106,6 +106,9 @@ social_preview_image: "/assets/img/haedal.png" # string, local or CORS resources
 
 favicon: "/assets/img/favicons/haedal.png"
 
+# future
+future: true
+
 # boolean type, the global switch for TOC in posts.
 toc: true
 
